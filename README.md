@@ -3,4 +3,4 @@
 Greetings!
 
 My name is Maverick.
-I enjoy playing the violin and basketball
+I enjoy playing the violin and basketball.
