@@ -2,5 +2,5 @@
 
 Greetings!
 
-My name is Maverick
+My name is Maverick.
 I enjoy playing the violin and basketball
